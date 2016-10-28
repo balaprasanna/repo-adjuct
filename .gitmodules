@@ -1,0 +1,3 @@
+[submodule "repo-students"]
+	path = repo-students
+	url = https://github.com/balaprasanna/repo-students.git
